@@ -1,9 +1,9 @@
 # nebiaSMM
 
-Updated by Luna stub agent for SCRUM-6.
+Updated by Luna stub agent for SCRUM-7.
 
 ## Task
-инициализируй пустой react проект
+добавь в readme следующий текст
 
 ## Acceptance criteria
-нужно инициализировать пустой react проект
+добавь в readme следующий текст - привет мир
