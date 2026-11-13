@@ -1,10 +1,9 @@
 # nebiaSMM
 
-Updated by Luna stub agent for I3OK-MWFH8A0R.
+Updated by Luna stub agent for SCRUM-7.
 
 ## Task
-[mock] I3OK-MWFH8A0R: update README greeting
+добавь в readme следующий текст
 
 ## Acceptance criteria
-- README mentions Nebia SMM
-- Change is small and reviewable
+добавь в readme следующий текст - привет мир
