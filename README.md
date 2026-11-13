@@ -1,9 +1,10 @@
 # nebiaSMM
 
-Updated by Luna stub agent for SCRUM-6.
+Updated by Luna stub agent for I3OK-MWFH8A0R.
 
 ## Task
-инициализируй пустой react проект
+[mock] I3OK-MWFH8A0R: update README greeting
 
 ## Acceptance criteria
-нужно инициализировать пустой react проект
+- README mentions Nebia SMM
+- Change is small and reviewable
