@@ -1,5 +1,5 @@
 # Luna lessons — SCRUM-16
-> Extracted 2026-11-14T11:06:05.768Z
+> Extracted 2026-11-14T15:10:40.011Z
 **Issue:** [SCRUM-16](https://anzorbagirokov1989.atlassian.net/browse/SCRUM-16) — добавь файл SCRUM_16.md
 **Code PR:** https://github.com/MaxAkkerman/nebiaSMM/pull/6
 ## Lessons
